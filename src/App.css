@@ -1,0 +1,10 @@
+#navbarSupportedContent{
+    justify-content: space-between;
+}
+.btn{
+    border: 1PX solid;
+    box-shadow: 1px;
+}
+.btns{
+    margin: 50px;
+}
